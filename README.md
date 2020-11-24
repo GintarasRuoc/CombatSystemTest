@@ -8,4 +8,4 @@ Vartojo vadovą galima rasti ataskaitoje.
 
 Norint tik pabandyti žaidimą užtenka parsisiųsti BuiltGame aplanką ir jame paleisti Slash.exe.
 
-Norint atidaryti projekta per Unity reikalingas tik Source aplanką.
+Norint atidaryti projektą per Unity reikalingas tik Source aplanką.
